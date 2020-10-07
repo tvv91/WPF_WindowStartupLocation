@@ -1,0 +1,2 @@
+# WPF_WindowStartupLocation
+WindowStartupLocation Bug
